@@ -1,2 +1,2 @@
-# Javascript Review Project by write_your_full_name
+# Javascript Review Project by Jacinth Cedric C. Barral
 This project is a review of concepts, from beginner to advanced.
